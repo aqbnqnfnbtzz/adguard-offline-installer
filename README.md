@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Ad+Blocker-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 AdGuard Free Installer** — AdGuard is a comprehensive ad blocking and privacy protection application for Windows, macOS, iOS, and Android. Works without internet access, no account required. Full offline installation.
+**💻 AdGuard Free Installer** — AdGuard is a comprehensive ad blocking and privacy protection solution available as a standalone app for Windows, macOS, Android, and iOS. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About AdGuard
 
-AdGuard is a comprehensive ad blocking and privacy protection application for Windows, macOS, iOS, and Android. Unlike browser extensions, AdGuard blocks ads system-wide across all applications and browsers using a network filter driver. Features include tracking protection, phishing protection, parental controls, and custom filtering rules for granular control over blocked content.
+AdGuard is a comprehensive ad blocking and privacy protection solution available as a standalone app for Windows, macOS, Android, and iOS. Unlike browser extensions, it blocks ads at the system level across all applications and browsers without affecting network speed.
 
 ---
 
 ## ❌ Problem: AdGuard is hard to access
 
-- **Commercial License** — Requires paid license for full functionality
-- **Complexity vs Browser Extension** — System-wide filtering more powerful but heavier than simple browser extensions
-- **Learning Curve** — Advanced filtering rules require technical knowledge
-- **Resource Usage** — System-level filtering adds small overhead compared to browser extensions
+- **Paid License** — Requires purchase or subscription for full system-wide protection
+- **Complexity** — Advanced filtering rules and custom configurations require technical knowledge
+- **False Positives** — Aggressive filtering can occasionally break legitimate website functionality
+- **Performance Impact** — System-wide filtering adds minimal but measurable latency
 
 ---
 
@@ -121,7 +121,7 @@ AdGuard is a comprehensive ad blocking and privacy protection application for Wi
 
 ---
 
-**AdGuard Free Installer** — AdGuard is a comprehensive ad blocking and privacy protection application for Windows, macOS, iOS, and Android. Install without internet connection today!
+**AdGuard Free Installer** — AdGuard is a comprehensive ad blocking and privacy protection solution available as a standalone app for Windows, macOS, Android, and iOS. Install without internet connection today!
 
 <div align="center">
 
